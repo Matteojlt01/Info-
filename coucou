@@ -1,2 +1,93 @@
 kfqùkqùkqms
 fkkqmlfmlsqkflqm
+#include <stdio.h>
+#include <string.h>
+#include "graph.h"
+
+// Initialisation du réseau trophique
+void init_network(TrophicNetwork *network) {
+    network->num_species = 0;
+    memset(network->adj_matrix, 0, sizeof(network->adj_matrix));
+}
+
+// Ajouter une espèce au réseau
+void add_species(TrophicNetwork *network, const char *name, int population, int trophic_level) {
+    if (network->num_species >= MAX_SPECIES) {
+        printf("Erreur : Nombre maximal d'espèces atteint.\n");
+        return;
+    }
+    Species *new_species = &network->species[network->num_species];
+    strncpy(new_species->name, name, 50);
+    new_species->population = population;
+    new_species->trophic_level = trophic_level;
+    network->num_species++;
+}
+
+// Ajouter une interaction entre deux espèces
+void add_interaction(TrophicNetwork *network, int from, int to) {
+    if (from >= network->num_species || to >= network->num_species) {
+        printf("Erreur : Index d'espèce invalide.\n");
+        return;
+    }
+    network->adj_matrix[from][to] = 1; // Interaction du prédateur (from) vers la proie (to)
+}
+
+// Afficher le réseau trophique
+void display_network(const TrophicNetwork *network) {
+    printf("\nRéseau trophique :\n");
+    for (int i = 0; i < network->num_species; i++) {
+        printf("Espèce %d : %s, Population : %d, Niveau trophique : %d\n",
+               i, network->species[i].name, network->species[i].population,
+               network->species[i].trophic_level);
+    }
+
+    printf("\nMatrice d'adjacence :\n");
+    for (int i = 0; i < network->num_species; i++) {
+        for (int j = 0; j < network->num_species; j++) {
+            printf("%d ", network->adj_matrix[i][j]);
+        }
+        printf("\n");
+    }
+}
+
+// Sauvegarder un réseau trophique dans un fichier
+void save_network(const TrophicNetwork *network, const char *filename) {
+    FILE *file = fopen(filename, "w");
+    if (!file) {
+        printf("Erreur : Impossible d'ouvrir le fichier.\n");
+        return;
+    }
+    fprintf(file, "%d\n", network->num_species);
+    for (int i = 0; i < network->num_species; i++) {
+        fprintf(file, "%s %d %d\n", network->species[i].name, 
+                network->species[i].population, network->species[i].trophic_level);
+    }
+    for (int i = 0; i < network->num_species; i++) {
+        for (int j = 0; j < network->num_species; j++) {
+            fprintf(file, "%d ", network->adj_matrix[i][j]);
+        }
+        fprintf(file, "\n");
+    }
+    fclose(file);
+}
+
+// Charger un réseau trophique depuis un fichier
+void load_network(TrophicNetwork *network, const char *filename) {
+    FILE *file = fopen(filename, "r");
+    if (!file) {
+        printf("Erreur : Impossible d'ouvrir le fichier.\n");
+        return;
+    }
+    init_network(network);
+    fscanf(file, "%d", &network->num_species);
+    for (int i = 0; i < network->num_species; i++) {
+        fscanf(file, "%s %d %d", network->species[i].name,
+               &network->species[i].population, &network->species[i].trophic_level);
+    }
+    for (int i = 0; i < network->num_species; i++) {
+        for (int j = 0; j < network->num_species; j++) {
+            fscanf(file, "%d", &network->adj_matrix[i][j]);
+        }
+    }
+    fclose(file);
+}
