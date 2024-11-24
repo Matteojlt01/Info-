@@ -1,10 +1,7 @@
 code soutenance 
 
 # Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+*.dllcode de la soutennace projet informatique 
 
 # Executables
 *.exe
