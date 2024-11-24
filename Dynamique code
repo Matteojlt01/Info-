@@ -1,0 +1,24 @@
+Recherche et préparation :
+
+Identifier au moins 3 réseaux trophiques basés sur des exemples réels.
+Relation : Début → Recherche des réseaux (Tâche 1).
+Modélisation des graphes :
+
+Créer les graphes des réseaux trophiques avec sommets et arcs.
+Relation : Recherche des réseaux (Tâche 1) → Modélisation des graphes (Tâche 2).
+Analyse structurelle :
+
+Calculer les métriques structurelles (connexité, degrés, etc.).
+Relation : Modélisation des graphes (Tâche 2) → Analyse structurelle (Tâche 3).
+Simulation fonctionnelle :
+
+Implémenter les dynamiques de population (modèle logistique).
+Relation : Analyse structurelle (Tâche 3) → Simulation fonctionnelle (Tâche 4).
+Visualisation graphique :
+
+Ajouter un affichage visuel des graphes et des dynamiques.
+Relation : Simulation fonctionnelle (Tâche 4) → Visualisation graphique (Tâche 5).
+Extensions et finalisation :
+
+Ajouter des fonctionnalités avancées (par exemple, aspects humains ou symbioses).
+Relation : Visualisation graphique (Tâche 5) → Extensions et finalisation (Tâche 6).
