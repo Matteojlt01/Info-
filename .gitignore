@@ -25,3 +25,784 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+Résumé des attendus de la mi-soutenance pour le projet "Trophic Networks"
+La mi-soutenance du projet "Trophic Networks" est structurée selon des critères précis d'évaluation, répartis sur une note totale de 20 points. Ces critères permettent d'évaluer la qualité du travail collectif et individuel, ainsi que la présentation des résultats et la méthodologie employée. Voici un résumé détaillé des attendus :
+
+1. Qualité de présentation du livrable (2 points)
+La présentation visuelle et la personnalisation du livrable sont des aspects clés. L'équipe est attendue sur :
+
+Une mise en page soignée et esthétique.
+Une présentation qui reflète une identité visuelle cohérente avec le projet.
+L’absence de défauts techniques dans les diapositives (alignement, lisibilité, etc.).
+Importance : Une présentation visuellement attrayante renforce l'impact et facilite la compréhension du contenu.
+
+2. Page de garde et sommaire (1 point)
+Une diapositive dédiée doit inclure :
+
+Le titre du projet.
+Les noms des membres de l'équipe.
+Les informations essentielles permettant d'identifier clairement le contenu du document.
+Un sommaire clair et structuré est également requis sur une diapositive distincte. Il doit permettre au jury de naviguer facilement entre les différentes sections.
+
+Objectif : Faciliter l’introduction et la structuration de la présentation.
+
+3. Synthèse du sujet du projet (1 point)
+En une seule diapositive, il faut fournir une synthèse claire et concise du sujet du projet. Cela inclut :
+
+Une définition du problème ou du contexte étudié.
+Les objectifs principaux du projet.
+Une explication succincte des enjeux et des résultats attendus.
+Conseil : Évitez les phrases trop longues ou les détails inutiles. Allez directement à l'essentiel.
+
+4. Méthodologie du travail (12 points)
+Cette section représente la majeure partie de la note et nécessite une présentation claire de la méthodologie employée. Voici les attendus principaux :
+
+Tableau de répartition des tâches :
+Montrer comment le travail a été divisé entre les membres de l'équipe.
+Inclure un calendrier ou un diagramme de Gantt pour illustrer la progression.
+Approche méthodologique :
+Décrivez les étapes principales suivies pour atteindre les objectifs.
+Justifiez les choix méthodologiques avec des arguments clairs.
+Présentation structurée :
+La méthodologie doit être présentée en un maximum de 10 diapositives, organisées de manière logique.
+Objectif : Montrer que le travail est bien structuré, collaboratif et rigoureusement planifié.
+
+5. Versioning GIT (1 point)
+L’utilisation d’un système de versionnement, tel que Git, est un critère obligatoire. Les attendus incluent :
+
+Fournir un lien vers le compte GitHub de l’équipe.
+Montrer que les outils de gestion de versions ont été utilisés pour collaborer efficacement et suivre les modifications.
+Avantage : Cela permet de démontrer un suivi rigoureux et transparent du projet.
+
+6. Bilan individuel et collectif (2 points)
+Un bilan du travail effectué doit être présenté sous forme de tableau ou de graphique. Les points suivants doivent être abordés :
+
+Contributions individuelles :
+Montrer ce que chaque membre de l’équipe a apporté au projet.
+Contributions collectives :
+Décrire les résultats obtenus grâce au travail en équipe.
+Identifier les forces et les faiblesses de la collaboration.
+Objectif : Permettre une évaluation équitable des membres de l’équipe et de leur engagement.
+
+7. Études documentaires (1 point)
+Une étude documentaire complète est attendue. Cela inclut :
+
+La présentation des sources utilisées pour le projet.
+La citation correcte des références (selon un format académique, si possible).
+Une explication de l’apport de ces sources au projet.
+Conseil : Assurez-vous que toutes les informations proviennent de sources fiables et pertinentes.
+
+Total de points
+Chaque critère est évalué avec une pondération spécifique, pour un total de 20 points. Une attention particulière doit être portée à la méthodologie, qui constitue l'élément central de l’évaluation.
+
+Conclusion
+La mi-soutenance est une étape essentielle pour démontrer la progression du projet, la collaboration entre les membres de l’équipe et l’application rigoureuse d’une méthodologie. Une présentation soignée, des contenus structurés et une préparation approfondie sont clés pour réussir cette évaluation.
+
+Si vous avez besoin de plus de détails ou d'une mise en forme différente, n'hésitez pas à demander.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Résumé des attendus de la mi-soutenance pour le projet "Trophic Networks"
+La mi-soutenance du projet "Trophic Networks" est structurée selon des critères précis d'évaluation, répartis sur une note totale de 20 points. Ces critères permettent d'évaluer la qualité du travail collectif et individuel, ainsi que la présentation des résultats et la méthodologie employée. Voici un résumé détaillé des attendus :
+
+1. Qualité de présentation du livrable (2 points)
+La présentation visuelle et la personnalisation du livrable sont des aspects clés. L'équipe est attendue sur :
+
+Une mise en page soignée et esthétique.
+Une présentation qui reflète une identité visuelle cohérente avec le projet.
+L’absence de défauts techniques dans les diapositives (alignement, lisibilité, etc.).
+Importance : Une présentation visuellement attrayante renforce l'impact et facilite la compréhension du contenu.
+
+2. Page de garde et sommaire (1 point)
+Une diapositive dédiée doit inclure :
+
+Le titre du projet.
+Les noms des membres de l'équipe.
+Les informations essentielles permettant d'identifier clairement le contenu du document.
+Un sommaire clair et structuré est également requis sur une diapositive distincte. Il doit permettre au jury de naviguer facilement entre les différentes sections.
+
+Objectif : Faciliter l’introduction et la structuration de la présentation.
+
+3. Synthèse du sujet du projet (1 point)
+En une seule diapositive, il faut fournir une synthèse claire et concise du sujet du projet. Cela inclut :
+
+Une définition du problème ou du contexte étudié.
+Les objectifs principaux du projet.
+Une explication succincte des enjeux et des résultats attendus.
+Conseil : Évitez les phrases trop longues ou les détails inutiles. Allez directement à l'essentiel.
+
+4. Méthodologie du travail (12 points)
+Cette section représente la majeure partie de la note et nécessite une présentation claire de la méthodologie employée. Voici les attendus principaux :
+
+Tableau de répartition des tâches :
+Montrer comment le travail a été divisé entre les membres de l'équipe.
+Inclure un calendrier ou un diagramme de Gantt pour illustrer la progression.
+Approche méthodologique :
+Décrivez les étapes principales suivies pour atteindre les objectifs.
+Justifiez les choix méthodologiques avec des arguments clairs.
+Présentation structurée :
+La méthodologie doit être présentée en un maximum de 10 diapositives, organisées de manière logique.
+Objectif : Montrer que le travail est bien structuré, collaboratif et rigoureusement planifié.
+
+5. Versioning GIT (1 point)
+L’utilisation d’un système de versionnement, tel que Git, est un critère obligatoire. Les attendus incluent :
+
+Fournir un lien vers le compte GitHub de l’équipe.
+Montrer que les outils de gestion de versions ont été utilisés pour collaborer efficacement et suivre les modifications.
+Avantage : Cela permet de démontrer un suivi rigoureux et transparent du projet.
+
+6. Bilan individuel et collectif (2 points)
+Un bilan du travail effectué doit être présenté sous forme de tableau ou de graphique. Les points suivants doivent être abordés :
+
+Contributions individuelles :
+Montrer ce que chaque membre de l’équipe a apporté au projet.
+Contributions collectives :
+Décrire les résultats obtenus grâce au travail en équipe.
+Identifier les forces et les faiblesses de la collaboration.
+Objectif : Permettre une évaluation équitable des membres de l’équipe et de leur engagement.
+
+7. Études documentaires (1 point)
+Une étude documentaire complète est attendue. Cela inclut :
+
+La présentation des sources utilisées pour le projet.
+La citation correcte des références (selon un format académique, si possible).
+Une explication de l’apport de ces sources au projet.
+Conseil : Assurez-vous que toutes les informations proviennent de sources fiables et pertinentes.
+
+Total de points
+Chaque critère est évalué avec une pondération spécifique, pour un total de 20 points. Une attention particulière doit être portée à la méthodologie, qui constitue l'élément central de l’évaluation.
+
+Conclusion
+La mi-soutenance est une étape essentielle pour démontrer la progression du projet, la collaboration entre les membres de l’équipe et l’application rigoureuse d’une méthodologie. Une présentation soignée, des contenus structurés et une préparation approfondie sont clés pour réussir cette évaluation.
+
+Si vous avez besoin de plus de détails ou d'une mise en forme différente, n'hésitez pas à demander.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Résumé des attendus de la mi-soutenance pour le projet "Trophic Networks"
+La mi-soutenance du projet "Trophic Networks" est structurée selon des critères précis d'évaluation, répartis sur une note totale de 20 points. Ces critères permettent d'évaluer la qualité du travail collectif et individuel, ainsi que la présentation des résultats et la méthodologie employée. Voici un résumé détaillé des attendus :
+
+1. Qualité de présentation du livrable (2 points)
+La présentation visuelle et la personnalisation du livrable sont des aspects clés. L'équipe est attendue sur :
+
+Une mise en page soignée et esthétique.
+Une présentation qui reflète une identité visuelle cohérente avec le projet.
+L’absence de défauts techniques dans les diapositives (alignement, lisibilité, etc.).
+Importance : Une présentation visuellement attrayante renforce l'impact et facilite la compréhension du contenu.
+
+2. Page de garde et sommaire (1 point)
+Une diapositive dédiée doit inclure :
+
+Le titre du projet.
+Les noms des membres de l'équipe.
+Les informations essentielles permettant d'identifier clairement le contenu du document.
+Un sommaire clair et structuré est également requis sur une diapositive distincte. Il doit permettre au jury de naviguer facilement entre les différentes sections.
+
+Objectif : Faciliter l’introduction et la structuration de la présentation.
+
+3. Synthèse du sujet du projet (1 point)
+En une seule diapositive, il faut fournir une synthèse claire et concise du sujet du projet. Cela inclut :
+
+Une définition du problème ou du contexte étudié.
+Les objectifs principaux du projet.
+Une explication succincte des enjeux et des résultats attendus.
+Conseil : Évitez les phrases trop longues ou les détails inutiles. Allez directement à l'essentiel.
+
+4. Méthodologie du travail (12 points)
+Cette section représente la majeure partie de la note et nécessite une présentation claire de la méthodologie employée. Voici les attendus principaux :
+
+Tableau de répartition des tâches :
+Montrer comment le travail a été divisé entre les membres de l'équipe.
+Inclure un calendrier ou un diagramme de Gantt pour illustrer la progression.
+Approche méthodologique :
+Décrivez les étapes principales suivies pour atteindre les objectifs.
+Justifiez les choix méthodologiques avec des arguments clairs.
+Présentation structurée :
+La méthodologie doit être présentée en un maximum de 10 diapositives, organisées de manière logique.
+Objectif : Montrer que le travail est bien structuré, collaboratif et rigoureusement planifié.
+
+5. Versioning GIT (1 point)
+L’utilisation d’un système de versionnement, tel que Git, est un critère obligatoire. Les attendus incluent :
+
+Fournir un lien vers le compte GitHub de l’équipe.
+Montrer que les outils de gestion de versions ont été utilisés pour collaborer efficacement et suivre les modifications.
+Avantage : Cela permet de démontrer un suivi rigoureux et transparent du projet.
+
+6. Bilan individuel et collectif (2 points)
+Un bilan du travail effectué doit être présenté sous forme de tableau ou de graphique. Les points suivants doivent être abordés :
+
+Contributions individuelles :
+Montrer ce que chaque membre de l’équipe a apporté au projet.
+Contributions collectives :
+Décrire les résultats obtenus grâce au travail en équipe.
+Identifier les forces et les faiblesses de la collaboration.
+Objectif : Permettre une évaluation équitable des membres de l’équipe et de leur engagement.
+
+7. Études documentaires (1 point)
+Une étude documentaire complète est attendue. Cela inclut :
+
+La présentation des sources utilisées pour le projet.
+La citation correcte des références (selon un format académique, si possible).
+Une explication de l’apport de ces sources au projet.
+Conseil : Assurez-vous que toutes les informations proviennent de sources fiables et pertinentes.
+
+Total de points
+Chaque critère est évalué avec une pondération spécifique, pour un total de 20 points. Une attention particulière doit être portée à la méthodologie, qui constitue l'élément central de l’évaluation.
+
+Conclusion
+La mi-soutenance est une étape essentielle pour démontrer la progression du projet, la collaboration entre les membres de l’équipe et l’application rigoureuse d’une méthodologie. Une présentation soignée, des contenus structurés et une préparation approfondie sont clés pour réussir cette évaluation.
+
+Si vous avez besoin de plus de détails ou d'une mise en forme différente, n'hésitez pas à demander.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Résumé des attendus de la mi-soutenance pour le projet "Trophic Networks"
+La mi-soutenance du projet "Trophic Networks" est structurée selon des critères précis d'évaluation, répartis sur une note totale de 20 points. Ces critères permettent d'évaluer la qualité du travail collectif et individuel, ainsi que la présentation des résultats et la méthodologie employée. Voici un résumé détaillé des attendus :
+
+1. Qualité de présentation du livrable (2 points)
+La présentation visuelle et la personnalisation du livrable sont des aspects clés. L'équipe est attendue sur :
+
+Une mise en page soignée et esthétique.
+Une présentation qui reflète une identité visuelle cohérente avec le projet.
+L’absence de défauts techniques dans les diapositives (alignement, lisibilité, etc.).
+Importance : Une présentation visuellement attrayante renforce l'impact et facilite la compréhension du contenu.
+
+2. Page de garde et sommaire (1 point)
+Une diapositive dédiée doit inclure :
+
+Le titre du projet.
+Les noms des membres de l'équipe.
+Les informations essentielles permettant d'identifier clairement le contenu du document.
+Un sommaire clair et structuré est également requis sur une diapositive distincte. Il doit permettre au jury de naviguer facilement entre les différentes sections.
+
+Objectif : Faciliter l’introduction et la structuration de la présentation.
+
+3. Synthèse du sujet du projet (1 point)
+En une seule diapositive, il faut fournir une synthèse claire et concise du sujet du projet. Cela inclut :
+
+Une définition du problème ou du contexte étudié.
+Les objectifs principaux du projet.
+Une explication succincte des enjeux et des résultats attendus.
+Conseil : Évitez les phrases trop longues ou les détails inutiles. Allez directement à l'essentiel.
+
+4. Méthodologie du travail (12 points)
+Cette section représente la majeure partie de la note et nécessite une présentation claire de la méthodologie employée. Voici les attendus principaux :
+
+Tableau de répartition des tâches :
+Montrer comment le travail a été divisé entre les membres de l'équipe.
+Inclure un calendrier ou un diagramme de Gantt pour illustrer la progression.
+Approche méthodologique :
+Décrivez les étapes principales suivies pour atteindre les objectifs.
+Justifiez les choix méthodologiques avec des arguments clairs.
+Présentation structurée :
+La méthodologie doit être présentée en un maximum de 10 diapositives, organisées de manière logique.
+Objectif : Montrer que le travail est bien structuré, collaboratif et rigoureusement planifié.
+
+5. Versioning GIT (1 point)
+L’utilisation d’un système de versionnement, tel que Git, est un critère obligatoire. Les attendus incluent :
+
+Fournir un lien vers le compte GitHub de l’équipe.
+Montrer que les outils de gestion de versions ont été utilisés pour collaborer efficacement et suivre les modifications.
+Avantage : Cela permet de démontrer un suivi rigoureux et transparent du projet.
+
+6. Bilan individuel et collectif (2 points)
+Un bilan du travail effectué doit être présenté sous forme de tableau ou de graphique. Les points suivants doivent être abordés :
+
+Contributions individuelles :
+Montrer ce que chaque membre de l’équipe a apporté au projet.
+Contributions collectives :
+Décrire les résultats obtenus grâce au travail en équipe.
+Identifier les forces et les faiblesses de la collaboration.
+Objectif : Permettre une évaluation équitable des membres de l’équipe et de leur engagement.
+
+7. Études documentaires (1 point)
+Une étude documentaire complète est attendue. Cela inclut :
+
+La présentation des sources utilisées pour le projet.
+La citation correcte des références (selon un format académique, si possible).
+Une explication de l’apport de ces sources au projet.
+Conseil : Assurez-vous que toutes les informations proviennent de sources fiables et pertinentes.
+
+Total de points
+Chaque critère est évalué avec une pondération spécifique, pour un total de 20 points. Une attention particulière doit être portée à la méthodologie, qui constitue l'élément central de l’évaluation.
+
+Conclusion
+La mi-soutenance est une étape essentielle pour démontrer la progression du projet, la collaboration entre les membres de l’équipe et l’application rigoureuse d’une méthodologie. Une présentation soignée, des contenus structurés et une préparation approfondie sont clés pour réussir cette évaluation.
+
+Si vous avez besoin de plus de détails ou d'une mise en forme différente, n'hésitez pas à demander.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Résumé des attendus de la mi-soutenance pour le projet "Trophic Networks"
+La mi-soutenance du projet "Trophic Networks" est structurée selon des critères précis d'évaluation, répartis sur une note totale de 20 points. Ces critères permettent d'évaluer la qualité du travail collectif et individuel, ainsi que la présentation des résultats et la méthodologie employée. Voici un résumé détaillé des attendus :
+
+1. Qualité de présentation du livrable (2 points)
+La présentation visuelle et la personnalisation du livrable sont des aspects clés. L'équipe est attendue sur :
+
+Une mise en page soignée et esthétique.
+Une présentation qui reflète une identité visuelle cohérente avec le projet.
+L’absence de défauts techniques dans les diapositives (alignement, lisibilité, etc.).
+Importance : Une présentation visuellement attrayante renforce l'impact et facilite la compréhension du contenu.
+
+2. Page de garde et sommaire (1 point)
+Une diapositive dédiée doit inclure :
+
+Le titre du projet.
+Les noms des membres de l'équipe.
+Les informations essentielles permettant d'identifier clairement le contenu du document.
+Un sommaire clair et structuré est également requis sur une diapositive distincte. Il doit permettre au jury de naviguer facilement entre les différentes sections.
+
+Objectif : Faciliter l’introduction et la structuration de la présentation.
+
+3. Synthèse du sujet du projet (1 point)
+En une seule diapositive, il faut fournir une synthèse claire et concise du sujet du projet. Cela inclut :
+
+Une définition du problème ou du contexte étudié.
+Les objectifs principaux du projet.
+Une explication succincte des enjeux et des résultats attendus.
+Conseil : Évitez les phrases trop longues ou les détails inutiles. Allez directement à l'essentiel.
+
+4. Méthodologie du travail (12 points)
+Cette section représente la majeure partie de la note et nécessite une présentation claire de la méthodologie employée. Voici les attendus principaux :
+
+Tableau de répartition des tâches :
+Montrer comment le travail a été divisé entre les membres de l'équipe.
+Inclure un calendrier ou un diagramme de Gantt pour illustrer la progression.
+Approche méthodologique :
+Décrivez les étapes principales suivies pour atteindre les objectifs.
+Justifiez les choix méthodologiques avec des arguments clairs.
+Présentation structurée :
+La méthodologie doit être présentée en un maximum de 10 diapositives, organisées de manière logique.
+Objectif : Montrer que le travail est bien structuré, collaboratif et rigoureusement planifié.
+
+5. Versioning GIT (1 point)
+L’utilisation d’un système de versionnement, tel que Git, est un critère obligatoire. Les attendus incluent :
+
+Fournir un lien vers le compte GitHub de l’équipe.
+Montrer que les outils de gestion de versions ont été utilisés pour collaborer efficacement et suivre les modifications.
+Avantage : Cela permet de démontrer un suivi rigoureux et transparent du projet.
+
+6. Bilan individuel et collectif (2 points)
+Un bilan du travail effectué doit être présenté sous forme de tableau ou de graphique. Les points suivants doivent être abordés :
+
+Contributions individuelles :
+Montrer ce que chaque membre de l’équipe a apporté au projet.
+Contributions collectives :
+Décrire les résultats obtenus grâce au travail en équipe.
+Identifier les forces et les faiblesses de la collaboration.
+Objectif : Permettre une évaluation équitable des membres de l’équipe et de leur engagement.
+
+7. Études documentaires (1 point)
+Une étude documentaire complète est attendue. Cela inclut :
+
+La présentation des sources utilisées pour le projet.
+La citation correcte des références (selon un format académique, si possible).
+Une explication de l’apport de ces sources au projet.
+Conseil : Assurez-vous que toutes les informations proviennent de sources fiables et pertinentes.
+
+Total de points
+Chaque critère est évalué avec une pondération spécifique, pour un total de 20 points. Une attention particulière doit être portée à la méthodologie, qui constitue l'élément central de l’évaluation.
+
+Conclusion
+La mi-soutenance est une étape essentielle pour démontrer la progression du projet, la collaboration entre les membres de l’équipe et l’application rigoureuse d’une méthodologie. Une présentation soignée, des contenus structurés et une préparation approfondie sont clés pour réussir cette évaluation.
+
+Si vous avez besoin de plus de détails ou d'une mise en forme différente, n'hésitez pas à demander.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Résumé des attendus de la mi-soutenance pour le projet "Trophic Networks"
+La mi-soutenance du projet "Trophic Networks" est structurée selon des critères précis d'évaluation, répartis sur une note totale de 20 points. Ces critères permettent d'évaluer la qualité du travail collectif et individuel, ainsi que la présentation des résultats et la méthodologie employée. Voici un résumé détaillé des attendus :
+
+1. Qualité de présentation du livrable (2 points)
+La présentation visuelle et la personnalisation du livrable sont des aspects clés. L'équipe est attendue sur :
+
+Une mise en page soignée et esthétique.
+Une présentation qui reflète une identité visuelle cohérente avec le projet.
+L’absence de défauts techniques dans les diapositives (alignement, lisibilité, etc.).
+Importance : Une présentation visuellement attrayante renforce l'impact et facilite la compréhension du contenu.
+
+2. Page de garde et sommaire (1 point)
+Une diapositive dédiée doit inclure :
+
+Le titre du projet.
+Les noms des membres de l'équipe.
+Les informations essentielles permettant d'identifier clairement le contenu du document.
+Un sommaire clair et structuré est également requis sur une diapositive distincte. Il doit permettre au jury de naviguer facilement entre les différentes sections.
+
+Objectif : Faciliter l’introduction et la structuration de la présentation.
+
+3. Synthèse du sujet du projet (1 point)
+En une seule diapositive, il faut fournir une synthèse claire et concise du sujet du projet. Cela inclut :
+
+Une définition du problème ou du contexte étudié.
+Les objectifs principaux du projet.
+Une explication succincte des enjeux et des résultats attendus.
+Conseil : Évitez les phrases trop longues ou les détails inutiles. Allez directement à l'essentiel.
+
+4. Méthodologie du travail (12 points)
+Cette section représente la majeure partie de la note et nécessite une présentation claire de la méthodologie employée. Voici les attendus principaux :
+
+Tableau de répartition des tâches :
+Montrer comment le travail a été divisé entre les membres de l'équipe.
+Inclure un calendrier ou un diagramme de Gantt pour illustrer la progression.
+Approche méthodologique :
+Décrivez les étapes principales suivies pour atteindre les objectifs.
+Justifiez les choix méthodologiques avec des arguments clairs.
+Présentation structurée :
+La méthodologie doit être présentée en un maximum de 10 diapositives, organisées de manière logique.
+Objectif : Montrer que le travail est bien structuré, collaboratif et rigoureusement planifié.
+
+5. Versioning GIT (1 point)
+L’utilisation d’un système de versionnement, tel que Git, est un critère obligatoire. Les attendus incluent :
+
+Fournir un lien vers le compte GitHub de l’équipe.
+Montrer que les outils de gestion de versions ont été utilisés pour collaborer efficacement et suivre les modifications.
+Avantage : Cela permet de démontrer un suivi rigoureux et transparent du projet.
+
+6. Bilan individuel et collectif (2 points)
+Un bilan du travail effectué doit être présenté sous forme de tableau ou de graphique. Les points suivants doivent être abordés :
+
+Contributions individuelles :
+Montrer ce que chaque membre de l’équipe a apporté au projet.
+Contributions collectives :
+Décrire les résultats obtenus grâce au travail en équipe.
+Identifier les forces et les faiblesses de la collaboration.
+Objectif : Permettre une évaluation équitable des membres de l’équipe et de leur engagement.
+
+7. Études documentaires (1 point)
+Une étude documentaire complète est attendue. Cela inclut :
+
+La présentation des sources utilisées pour le projet.
+La citation correcte des références (selon un format académique, si possible).
+Une explication de l’apport de ces sources au projet.
+Conseil : Assurez-vous que toutes les informations proviennent de sources fiables et pertinentes.
+
+Total de points
+Chaque critère est évalué avec une pondération spécifique, pour un total de 20 points. Une attention particulière doit être portée à la méthodologie, qui constitue l'élément central de l’évaluation.
+
+Conclusion
+La mi-soutenance est une étape essentielle pour démontrer la progression du projet, la collaboration entre les membres de l’équipe et l’application rigoureuse d’une méthodologie. Une présentation soignée, des contenus structurés et une préparation approfondie sont clés pour réussir cette évaluation.
+
+Si vous avez besoin de plus de détails ou d'une mise en forme différente, n'hésitez pas à demander.
+
+
+
+
+
+
+
+
+
+
+
+
+Résumé des attendus de la mi-soutenance pour le projet "Trophic Networks"
+La mi-soutenance du projet "Trophic Networks" est structurée selon des critères précis d'évaluation, répartis sur une note totale de 20 points. Ces critères permettent d'évaluer la qualité du travail collectif et individuel, ainsi que la présentation des résultats et la méthodologie employée. Voici un résumé détaillé des attendus :
+
+1. Qualité de présentation du livrable (2 points)
+La présentation visuelle et la personnalisation du livrable sont des aspects clés. L'équipe est attendue sur :
+
+Une mise en page soignée et esthétique.
+Une présentation qui reflète une identité visuelle cohérente avec le projet.
+L’absence de défauts techniques dans les diapositives (alignement, lisibilité, etc.).
+Importance : Une présentation visuellement attrayante renforce l'impact et facilite la compréhension du contenu.
+
+2. Page de garde et sommaire (1 point)
+Une diapositive dédiée doit inclure :
+
+Le titre du projet.
+Les noms des membres de l'équipe.
+Les informations essentielles permettant d'identifier clairement le contenu du document.
+Un sommaire clair et structuré est également requis sur une diapositive distincte. Il doit permettre au jury de naviguer facilement entre les différentes sections.
+
+Objectif : Faciliter l’introduction et la structuration de la présentation.
+
+3. Synthèse du sujet du projet (1 point)
+En une seule diapositive, il faut fournir une synthèse claire et concise du sujet du projet. Cela inclut :
+
+Une définition du problème ou du contexte étudié.
+Les objectifs principaux du projet.
+Une explication succincte des enjeux et des résultats attendus.
+Conseil : Évitez les phrases trop longues ou les détails inutiles. Allez directement à l'essentiel.
+
+4. Méthodologie du travail (12 points)
+Cette section représente la majeure partie de la note et nécessite une présentation claire de la méthodologie employée. Voici les attendus principaux :
+
+Tableau de répartition des tâches :
+Montrer comment le travail a été divisé entre les membres de l'équipe.
+Inclure un calendrier ou un diagramme de Gantt pour illustrer la progression.
+Approche méthodologique :
+Décrivez les étapes principales suivies pour atteindre les objectifs.
+Justifiez les choix méthodologiques avec des arguments clairs.
+Présentation structurée :
+La méthodologie doit être présentée en un maximum de 10 diapositives, organisées de manière logique.
+Objectif : Montrer que le travail est bien structuré, collaboratif et rigoureusement planifié.
+
+5. Versioning GIT (1 point)
+L’utilisation d’un système de versionnement, tel que Git, est un critère obligatoire. Les attendus incluent :
+
+Fournir un lien vers le compte GitHub de l’équipe.
+Montrer que les outils de gestion de versions ont été utilisés pour collaborer efficacement et suivre les modifications.
+Avantage : Cela permet de démontrer un suivi rigoureux et transparent du projet.
+
+6. Bilan individuel et collectif (2 points)
+Un bilan du travail effectué doit être présenté sous forme de tableau ou de graphique. Les points suivants doivent être abordés :
+
+Contributions individuelles :
+Montrer ce que chaque membre de l’équipe a apporté au projet.
+Contributions collectives :
+Décrire les résultats obtenus grâce au travail en équipe.
+Identifier les forces et les faiblesses de la collaboration.
+Objectif : Permettre une évaluation équitable des membres de l’équipe et de leur engagement.
+
+7. Études documentaires (1 point)
+Une étude documentaire complète est attendue. Cela inclut :
+
+La présentation des sources utilisées pour le projet.
+La citation correcte des références (selon un format académique, si possible).
+Une explication de l’apport de ces sources au projet.
+Conseil : Assurez-vous que toutes les informations proviennent de sources fiables et pertinentes.
+
+Total de points
+Chaque critère est évalué avec une pondération spécifique, pour un total de 20 points. Une attention particulière doit être portée à la méthodologie, qui constitue l'élément central de l’évaluation.
+
+Conclusion
+La mi-soutenance est une étape essentielle pour démontrer la progression du projet, la collaboration entre les membres de l’équipe et l’application rigoureuse d’une méthodologie. Une présentation soignée, des contenus structurés et une préparation approfondie sont clés pour réussir cette évaluation.
+
+Si vous avez besoin de plus de détails ou d'une mise en forme différente, n'hésitez pas à demander.
+
+
+
+
+
+
+
+
+
+
+
+
+Résumé des attendus de la mi-soutenance pour le projet "Trophic Networks"
+La mi-soutenance du projet "Trophic Networks" est structurée selon des critères précis d'évaluation, répartis sur une note totale de 20 points. Ces critères permettent d'évaluer la qualité du travail collectif et individuel, ainsi que la présentation des résultats et la méthodologie employée. Voici un résumé détaillé des attendus :
+
+1. Qualité de présentation du livrable (2 points)
+La présentation visuelle et la personnalisation du livrable sont des aspects clés. L'équipe est attendue sur :
+
+Une mise en page soignée et esthétique.
+Une présentation qui reflète une identité visuelle cohérente avec le projet.
+L’absence de défauts techniques dans les diapositives (alignement, lisibilité, etc.).
+Importance : Une présentation visuellement attrayante renforce l'impact et facilite la compréhension du contenu.
+
+2. Page de garde et sommaire (1 point)
+Une diapositive dédiée doit inclure :
+
+Le titre du projet.
+Les noms des membres de l'équipe.
+Les informations essentielles permettant d'identifier clairement le contenu du document.
+Un sommaire clair et structuré est également requis sur une diapositive distincte. Il doit permettre au jury de naviguer facilement entre les différentes sections.
+
+Objectif : Faciliter l’introduction et la structuration de la présentation.
+
+3. Synthèse du sujet du projet (1 point)
+En une seule diapositive, il faut fournir une synthèse claire et concise du sujet du projet. Cela inclut :
+
+Une définition du problème ou du contexte étudié.
+Les objectifs principaux du projet.
+Une explication succincte des enjeux et des résultats attendus.
+Conseil : Évitez les phrases trop longues ou les détails inutiles. Allez directement à l'essentiel.
+
+4. Méthodologie du travail (12 points)
+Cette section représente la majeure partie de la note et nécessite une présentation claire de la méthodologie employée. Voici les attendus principaux :
+
+Tableau de répartition des tâches :
+Montrer comment le travail a été divisé entre les membres de l'équipe.
+Inclure un calendrier ou un diagramme de Gantt pour illustrer la progression.
+Approche méthodologique :
+Décrivez les étapes principales suivies pour atteindre les objectifs.
+Justifiez les choix méthodologiques avec des arguments clairs.
+Présentation structurée :
+La méthodologie doit être présentée en un maximum de 10 diapositives, organisées de manière logique.
+Objectif : Montrer que le travail est bien structuré, collaboratif et rigoureusement planifié.
+
+5. Versioning GIT (1 point)
+L’utilisation d’un système de versionnement, tel que Git, est un critère obligatoire. Les attendus incluent :
+
+Fournir un lien vers le compte GitHub de l’équipe.
+Montrer que les outils de gestion de versions ont été utilisés pour collaborer efficacement et suivre les modifications.
+Avantage : Cela permet de démontrer un suivi rigoureux et transparent du projet.
+
+6. Bilan individuel et collectif (2 points)
+Un bilan du travail effectué doit être présenté sous forme de tableau ou de graphique. Les points suivants doivent être abordés :
+
+Contributions individuelles :
+Montrer ce que chaque membre de l’équipe a apporté au projet.
+Contributions collectives :
+Décrire les résultats obtenus grâce au travail en équipe.
+Identifier les forces et les faiblesses de la collaboration.
+Objectif : Permettre une évaluation équitable des membres de l’équipe et de leur engagement.
+
+7. Études documentaires (1 point)
+Une étude documentaire complète est attendue. Cela inclut :
+
+La présentation des sources utilisées pour le projet.
+La citation correcte des références (selon un format académique, si possible).
+Une explication de l’apport de ces sources au projet.
+Conseil : Assurez-vous que toutes les informations proviennent de sources fiables et pertinentes.
+
+Total de points
+Chaque critère est évalué avec une pondération spécifique, pour un total de 20 points. Une attention particulière doit être portée à la méthodologie, qui constitue l'élément central de l’évaluation.
+
+Conclusion
+La mi-soutenance est une étape essentielle pour démontrer la progression du projet, la collaboration entre les membres de l’équipe et l’application rigoureuse d’une méthodologie. Une présentation soignée, des contenus structurés et une préparation approfondie sont clés pour réussir cette évaluation.
+
+Si vous avez besoin de plus de détails ou d'une mise en forme différente, n'hésitez pas à demander.
+
+
+
+
+
+
+
+
+
+
+
+
+Résumé des attendus de la mi-soutenance pour le projet "Trophic Networks"
+La mi-soutenance du projet "Trophic Networks" est structurée selon des critères précis d'évaluation, répartis sur une note totale de 20 points. Ces critères permettent d'évaluer la qualité du travail collectif et individuel, ainsi que la présentation des résultats et la méthodologie employée. Voici un résumé détaillé des attendus :
+
+1. Qualité de présentation du livrable (2 points)
+La présentation visuelle et la personnalisation du livrable sont des aspects clés. L'équipe est attendue sur :
+
+Une mise en page soignée et esthétique.
+Une présentation qui reflète une identité visuelle cohérente avec le projet.
+L’absence de défauts techniques dans les diapositives (alignement, lisibilité, etc.).
+Importance : Une présentation visuellement attrayante renforce l'impact et facilite la compréhension du contenu.
+
+2. Page de garde et sommaire (1 point)
+Une diapositive dédiée doit inclure :
+
+Le titre du projet.
+Les noms des membres de l'équipe.
+Les informations essentielles permettant d'identifier clairement le contenu du document.
+Un sommaire clair et structuré est également requis sur une diapositive distincte. Il doit permettre au jury de naviguer facilement entre les différentes sections.
+
+Objectif : Faciliter l’introduction et la structuration de la présentation.
+
+3. Synthèse du sujet du projet (1 point)
+En une seule diapositive, il faut fournir une synthèse claire et concise du sujet du projet. Cela inclut :
+
+Une définition du problème ou du contexte étudié.
+Les objectifs principaux du projet.
+Une explication succincte des enjeux et des résultats attendus.
+Conseil : Évitez les phrases trop longues ou les détails inutiles. Allez directement à l'essentiel.
+
+4. Méthodologie du travail (12 points)
+Cette section représente la majeure partie de la note et nécessite une présentation claire de la méthodologie employée. Voici les attendus principaux :
+
+Tableau de répartition des tâches :
+Montrer comment le travail a été divisé entre les membres de l'équipe.
+Inclure un calendrier ou un diagramme de Gantt pour illustrer la progression.
+Approche méthodologique :
+Décrivez les étapes principales suivies pour atteindre les objectifs.
+Justifiez les choix méthodologiques avec des arguments clairs.
+Présentation structurée :
+La méthodologie doit être présentée en un maximum de 10 diapositives, organisées de manière logique.
+Objectif : Montrer que le travail est bien structuré, collaboratif et rigoureusement planifié.
+
+5. Versioning GIT (1 point)
+L’utilisation d’un système de versionnement, tel que Git, est un critère obligatoire. Les attendus incluent :
+
+Fournir un lien vers le compte GitHub de l’équipe.
+Montrer que les outils de gestion de versions ont été utilisés pour collaborer efficacement et suivre les modifications.
+Avantage : Cela permet de démontrer un suivi rigoureux et transparent du projet.
+
+6. Bilan individuel et collectif (2 points)
+Un bilan du travail effectué doit être présenté sous forme de tableau ou de graphique. Les points suivants doivent être abordés :
+
+Contributions individuelles :
+Montrer ce que chaque membre de l’équipe a apporté au projet.
+Contributions collectives :
+Décrire les résultats obtenus grâce au travail en équipe.
+Identifier les forces et les faiblesses de la collaboration.
+Objectif : Permettre une évaluation équitable des membres de l’équipe et de leur engagement.
+
+7. Études documentaires (1 point)
+Une étude documentaire complète est attendue. Cela inclut :
+
+La présentation des sources utilisées pour le projet.
+La citation correcte des références (selon un format académique, si possible).
+Une explication de l’apport de ces sources au projet.
+Conseil : Assurez-vous que toutes les informations proviennent de sources fiables et pertinentes.
+
+Total de points
+Chaque critère est évalué avec une pondération spécifique, pour un total de 20 points. Une attention particulière doit être portée à la méthodologie, qui constitue l'élément central de l’évaluation.
+
+Conclusion
+La mi-soutenance est une étape essentielle pour démontrer la progression du projet, la collaboration entre les membres de l’équipe et l’application rigoureuse d’une méthodologie. Une présentation soignée, des contenus structurés et une préparation approfondie sont clés pour réussir cette évaluation.
+
+Si vous avez besoin de plus de détails ou d'une mise en forme différente, n'hésitez pas à demander.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
